@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Взаимоисключающие CheckBox</string>
+    <string name="buttonOk">ОК</string>
+    <string name="tInputMoney">Ввод денег</string>
+    <string name="tInputInfo">Информация об оплате</string>
+    <string name="tBankCardChkBx">С банковской карты</string>
+    <string name="tMobilePhoneChkBx">С мобильного телефона</string>
+    <string name="tCashAddressChkBx">Наличными по адресу</string>
+    <string name="textUp">Выберите способ оплаты</string>
+
+</resources>
